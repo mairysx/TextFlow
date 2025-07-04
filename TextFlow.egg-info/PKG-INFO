@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: TextFlow
+Version: 1.0.1
+Summary: Streamlined tools for text processing and analysis.
+Home-page: https://github.com/mairysx/TextFlow
+Author: mairysx
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # TextFlow
 
 Streamlined tools for text processing and analysis. Python-powered.
@@ -7,7 +21,6 @@ Streamlined tools for text processing and analysis. Python-powered.
 - Tokenization and stemming
 - Frequency analysis
 - Basic sentiment analysis
-- Word counting
 
 ## Installation
 
@@ -31,4 +44,6 @@ print(f"Cleaned text: {cleaned_text}")
 print(f"Tokens: {tokens}")
 print(f"Stemmed tokens: {stemmed_tokens}")
 ```
+
+
 

@@ -41,3 +41,11 @@ class TextProcessor:
             return "Neutral"
 
 
+
+
+    def count_words(self, text):
+        # Count the number of words in a text
+        words = word_tokenize(text)
+        return len(words)
+
+
