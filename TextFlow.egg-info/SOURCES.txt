@@ -1,0 +1,7 @@
+README.md
+setup.py
+TextFlow.egg-info/PKG-INFO
+TextFlow.egg-info/SOURCES.txt
+TextFlow.egg-info/dependency_links.txt
+TextFlow.egg-info/requires.txt
+TextFlow.egg-info/top_level.txt
